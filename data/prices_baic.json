@@ -1,14 +1,6 @@
 {
-  "https://auto.mercadolibre.com.ar/MLA-2258174071-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2254881449-baic-x55-ii-15-reev-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2255397645-baic-x55-ii-15-reev-_JM": {
-    "price": 34500,
+  "https://auto.mercadolibre.com.ar/MLA-4162344678-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 29400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2083314391-baic-x35-15-turbo-luxury-cvt-suv-0km-_JM": {
@@ -23,220 +15,64 @@
     "price": 26500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120313832-baic-x55-ii-hibrida-0km-2026-_JM": {
-    "price": 32800,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-2258596917-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 45400000,
+    "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2258251523-baic-u5-plus-15-cvt-_JM": {
-    "price": 21900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2090760597-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2042174687-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4155555106-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 29400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2060587753-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35797,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3995220908-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4145717206-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
+  "https://auto.mercadolibre.com.ar/MLA-1796349093-baic-bj30-15t-2wd-hybrid-asesor-ulises-garcia-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4142841286-baic-u5-plus-15-cvt-_JM": {
     "price": 33000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3306828586-baic-bj30-15t-bj30-2wd-hybrid-asesor-f-scher-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3868979362-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3995255176-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24534,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778114269-baic-bj30-15t-4wd-hybrid-of-_JM": {
-    "price": 35500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3691605542-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33614,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2137488509-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1896854503-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1987856125-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1796349093-baic-bj30-15t-2wd-hybrid-asesor-ulises-garcia-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125705507-baic-u5-plus-15-cvt-_JM": {
-    "price": 23496,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3962948272-baic-bj30-15t-2wd-hybrid-2026-_JM": {
-    "price": 30500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1820246587-baic-eu5-00-eu5-financiacion-electrico-j-_JM": {
-    "price": 26000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3306828594-baic-bj30-15t-2wd-hybrid-asesor-elias-homsi-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3998164470-baic-bj30-15t-bj30-4wd-hybrid-mm-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1935609085-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1987855273-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2258596917-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 45400000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778143581-baic-bj30-15t-4wd-hybrid-of-_JM": {
-    "price": 35500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4143144220-baic-x55-ii-15-reev-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2186233639-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 29000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3876520394-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2097892501-baic-x55-15-reev-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1788714747-baic-u5-plus-_JM": {
-    "price": 22900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2788317754-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1937448293-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
+  "https://auto.mercadolibre.com.ar/MLA-4151247976-baic-bj60-20t-mhev-_JM": {
+    "price": 78600,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4119740698-baic-u5-plus-15-cvt-_JM": {
     "price": 21000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3919729308-baic-bj60-20t-mhev-flagship-_JM": {
-    "price": 68800,
+  "https://auto.mercadolibre.com.ar/MLA-3995220908-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 31500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3954517482-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33500,
+  "https://auto.mercadolibre.com.ar/MLA-3306828586-baic-bj30-15t-bj30-2wd-hybrid-asesor-f-scher-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1987858437-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
+  "https://auto.mercadolibre.com.ar/MLA-2042174687-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2134016279-baic-x55-ii-15-reev-_JM": {
-    "price": 31850,
+  "https://auto.mercadolibre.com.ar/MLA-3677485774-baic-bj30-15t-4wd-hybrid-okm-2026-cq-_JM": {
+    "price": 36000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1987847997-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
+  "https://auto.mercadolibre.com.ar/MLA-2258251523-baic-u5-plus-15-cvt-_JM": {
+    "price": 21900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2186233639-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 29000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987856125-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1778115243-baic-bj30-15t-2wd-hybrid-of-_JM": {
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3915387106-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-1778114269-baic-bj30-15t-4wd-hybrid-of-_JM": {
+    "price": 35500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4014140356-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2060995065-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2133521867-baic-x55-ii-15t-luxury-7dct-dp-_JM": {
-    "price": 29000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2093651497-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32242,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3940612028-baic-u5-plus-15-sedan-2026-0km-_JM": {
-    "price": 26400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2083291429-baic-u5-plus-15-sedan-nuevo-2026-0km-_JM": {
-    "price": 26400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2133547015-baic-bj30-15t-bj30-4wd-hybrid-dp-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2230292819-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2042176681-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2093595017-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32242,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2526659898-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3927932646-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32800,
+  "https://auto.mercadolibre.com.ar/MLA-4030997332-baic-eu5-00-eu5-_JM": {
+    "price": 28400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2083291105-baic-x55-ii-15-turbo-luxury-7dct-0km-_JM": {
@@ -247,24 +83,112 @@
     "price": 36900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3718585432-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
+  "https://auto.mercadolibre.com.ar/MLA-1935609085-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3328505126-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 26500,
+  "https://auto.mercadolibre.com.ar/MLA-2125705507-baic-u5-plus-15-cvt-_JM": {
+    "price": 23496,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2060587753-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35797,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3691605542-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33614,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3998164470-baic-bj30-15t-bj30-4wd-hybrid-mm-_JM": {
+    "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1788714747-baic-u5-plus-_JM": {
+    "price": 22900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3915387106-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3306828594-baic-bj30-15t-2wd-hybrid-asesor-elias-homsi-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1778143581-baic-bj30-15t-4wd-hybrid-of-_JM": {
+    "price": 35500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3876520394-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4143144220-baic-x55-ii-15-reev-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2133547015-baic-bj30-15t-bj30-4wd-hybrid-dp-_JM": {
+    "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987855273-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3521973460-baic-u5-plus-15-cvt-_JM": {
+    "price": 21900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2267857103-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 29400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1820246587-baic-eu5-00-eu5-financiacion-electrico-j-_JM": {
+    "price": 26000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3962948272-baic-bj30-15t-2wd-hybrid-2026-_JM": {
+    "price": 30500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3940612028-baic-u5-plus-15-sedan-2026-0km-_JM": {
+    "price": 26400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2083291429-baic-u5-plus-15-sedan-nuevo-2026-0km-_JM": {
+    "price": 26400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3995255176-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2080076729-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 37240,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4155555106-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 29400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2264238681-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 29000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3718585432-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2526659898-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3927932646-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32800,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2090768543-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4154122762-baic-x35-15-luxury-_JM": {
-    "price": 10000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1720767961-baic-bj30-15t-bj30-2wd-hybrid-gris-agustina-sesin-_JM": {
-    "price": 31000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2083313839-baic-eu5-electrico-sedan-2026-0km-_JM": {
@@ -275,16 +199,40 @@
     "price": 29900,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-1937448293-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1720767961-baic-bj30-15t-bj30-2wd-hybrid-gris-agustina-sesin-_JM": {
+    "price": 31000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2906426992-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2093595017-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32242,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4035885410-baic-x55-ii-15-reev-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120313182-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-1992198467-baic-bj30-15t-2wd-hybrid-_JM": {
     "price": 33614,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3752418894-baic-u5-plus-15-cvt-_JM": {
-    "price": 22000,
+  "https://auto.mercadolibre.com.ar/MLA-2133521867-baic-x55-ii-15t-luxury-7dct-dp-_JM": {
+    "price": 29000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3521973460-baic-u5-plus-15-cvt-_JM": {
-    "price": 21900,
+  "https://auto.mercadolibre.com.ar/MLA-4114537400-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34300,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3940611950-baic-bj30-15-turbo-hybrid-2wd-cd-0km-_JM": {
@@ -307,51 +255,67 @@
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4114537400-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32000,
+  "https://auto.mercadolibre.com.ar/MLA-3776091270-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32242,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3794512042-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35700,
+  "https://auto.mercadolibre.com.ar/MLA-3663192038-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2758792308-baic-bj30-4x2-hibrida-veni-a-probarla-_JM": {
+    "price": 31500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2041571395-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 35700,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3776091270-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-4003727676-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2093651497-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 32242,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3732346524-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 37240,
+  "https://auto.mercadolibre.com.ar/MLA-2230292819-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4003727676-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
+  "https://auto.mercadolibre.com.ar/MLA-3752418894-baic-u5-plus-15-cvt-_JM": {
+    "price": 22000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2906426992-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32800,
+  "https://auto.mercadolibre.com.ar/MLA-1644139175-baic-x55-ii-luxury-15l-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3911710202-baic-eu5-00-eu5-_JM": {
-    "price": 22900,
+  "https://auto.mercadolibre.com.ar/MLA-2799821100-nuevo-baic-bj-30-4x2-hybrid-15-2026-ag-_JM": {
+    "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2080076729-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 37240,
+  "https://auto.mercadolibre.com.ar/MLA-2169442947-baic-x55-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230481907-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2042176681-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3978867398-x55-hibdrid-15-permuta-creditos-financiaciones-plan-ff-_JM": {
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950325274-u5-plus-15-cvt-_JM": {
-    "price": 22900,
+  "https://auto.mercadolibre.com.ar/MLA-2270469889-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4114510560-baic-x55-ii-15-reev-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-1926113091-baic-bj30-15t-bj30-2wd-hybrid-4x2-okm-2026-hc-_JM": {
     "price": 33500,
     "currency": "US$"
   },
@@ -367,8 +331,8 @@
     "price": 32000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1926113091-baic-bj30-15t-bj30-2wd-hybrid-4x2-okm-2026-hc-_JM": {
-    "price": 31500,
+  "https://auto.mercadolibre.com.ar/MLA-3907437016-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4004401512-baic-bj30-15t-bj30-2wd-hybrid-ac-_JM": {
@@ -383,8 +347,12 @@
     "price": 33800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2230481907-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-4170759674-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2268342181-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32898,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2066820233-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -395,8 +363,8 @@
     "price": 32000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4162344678-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 29400,
+  "https://auto.mercadolibre.com.ar/MLA-3950323714-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4120552346-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -405,6 +373,10 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-4122872380-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1952110487-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33614,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3410029624-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -423,8 +395,40 @@
     "price": 32242,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-1981938317-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32242,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1896854503-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1800601695-bj30-4x4-hybrido-usado-ff-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950322964-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950322508-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950321408-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32400,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-3950361920-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 32400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2090760059-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4128146184-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 35800,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2236698471-baic-bj30-15t-2wd-hybrid-_JM": {
@@ -439,12 +443,12 @@
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2172377293-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32000,
+  "https://auto.mercadolibre.com.ar/MLA-2788317754-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120313182-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-2172377293-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2230395081-baic-bj30-4x2-2026-0km-hibrida-oferta-oferta-julio-_JM": {
@@ -471,16 +475,64 @@
     "price": 32800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4030997332-baic-eu5-00-eu5-_JM": {
-    "price": 28400,
+  "https://auto.mercadolibre.com.ar/MLA-3954517482-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2097892501-baic-x55-15-reev-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3732346524-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 37240,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2090760597-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3489190840-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 34000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3955597176-baic-bj60-20t-mhev-_JM": {
-    "price": 69954,
+  "https://auto.mercadolibre.com.ar/MLA-4120659152-baic-x35-luxury-15-cvt-2026-0-km-azul-_JM": {
+    "price": 24500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120313336-baic-x35-luxury-15t-cvt-2026-0-km-_JM": {
+    "price": 24500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1992204163-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3987369834-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3718583752-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2184804207-baic-x35-15-t-luxury-cvt-_JM": {
+    "price": 28200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4145717206-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4114510560-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950325274-u5-plus-15-cvt-_JM": {
+    "price": 22900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2270747251-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35300,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2255100237-baic-bj30-15t-4wd-hybrid-_JM": {
@@ -503,16 +555,20 @@
     "price": 35900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3677485774-baic-bj30-15t-4wd-hybrid-okm-2026-cq-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-4160136802-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 29400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2250280217-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2034972441-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2788070722-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3854353274-baic-bj30-15t-4wd-hybrid-_JM": {
@@ -527,9 +583,17 @@
     "price": 56000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1846835257-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 49000000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-2275702283-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 29400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2270755087-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 29400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2270753811-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 29400,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4160947426-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 29400,
@@ -541,6 +605,10 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-2231700643-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3706295612-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 36500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1812685529-baic-bj30-15t-4wd-hybrid-g-_JM": {
@@ -567,20 +635,20 @@
     "price": 35800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3663192038-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-3794512042-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4143355896-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3940611728-baic-x55-plus-15-turbo-suv-2026-0km-_JM": {
-    "price": 42500,
+  "https://auto.mercadolibre.com.ar/MLA-2073572887-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 34000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2083290659-baic-x55-plus-15-turbo-suv-nuevo-0km-_JM": {
-    "price": 42500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3927870246-baic-x55-plus-15t-7dct-_JM": {
-    "price": 42500,
+  "https://auto.mercadolibre.com.ar/MLA-2134016279-baic-x55-ii-15-reev-_JM": {
+    "price": 31850,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3869021470-baic-u5-plus-15-cvt-_JM": {
@@ -595,10 +663,6 @@
     "price": 23500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2013057467-baic-u5-plus-15-cvt-_JM": {
-    "price": 24950,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-2125997109-baic-u5-plus-15-cvt-_JM": {
     "price": 23760,
     "currency": "US$"
@@ -607,19 +671,15 @@
     "price": 23296,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4128146184-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 35800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2134386841-baic-x55-ii-15-reev-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4155655038-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2271513559-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35300,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4127514492-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2270991331-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4155655038-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35300,
     "currency": "US$"
   },
@@ -660,10 +720,6 @@
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4120632022-baic-bj30-15t-bj30-4wd-hybrid-oferta-contado-2026-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4143355896-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35000,
     "currency": "US$"
   },
@@ -715,21 +771,29 @@
     "price": 35400,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3568711078-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36200,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-2125790237-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4013819916-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32600,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4075334790-baic-bj30-15t-2wd-hybrid-_JM": {
     "price": 32500,
     "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3987960768-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987858437-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2125814695-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4169388954-baic-x35-15-t-luxury-cvt-_JM": {
+    "price": 34900000,
+    "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2083314017-baic-bj30-15-turbo-hybrid-4wd-cd-0km-_JM": {
     "price": 37500,
@@ -751,356 +815,184 @@
     "price": 37500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3364367526-baic-bj30-4x2-y-4x4-permuta-usado-credito-hibrido-ff-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-1992227731-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 37240,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1986524911-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4132916572-baic-eu5-electrico-2026-400km-autonomia-0km-entrega-ya-rs-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2093648063-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32242,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2133559735-baic-bj30-15t-bj30-4wd-hybrid-dp-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1793655473-bj30-hibrid-4x4-y-4x2-permuta-usado-financiacion-ff-_JM": {
-    "price": 35040,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1981938317-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32242,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4122870482-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 52000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1947385065-baic-x55-ii-15-reev-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3987960768-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 23800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2788070722-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1987846987-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4120659152-baic-x35-luxury-15-cvt-2026-0-km-azul-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4120313336-baic-x35-luxury-15t-cvt-2026-0-km-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3770012706-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125994723-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1992204163-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125814695-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3987369834-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3718583752-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2184804207-baic-x35-15-t-luxury-cvt-_JM": {
-    "price": 28200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2070100203-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3917009496-baic-bj60-20t-mhev-_JM": {
-    "price": 71300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2034972441-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3853229912-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2758792308-baic-bj30-4x2-hibrida-veni-a-probarla-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3559532194-baic-bj30-15t-4wd-hybrid-stock-fisico-ba-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125595473-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33614,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2054907075-baic-bj30-15t-2wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-3364367526-baic-bj30-4x2-y-4x4-permuta-usado-credito-hibrido-ff-_JM": {
     "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2073572887-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2246617907-baic-bj30-4x2-hibrida-2026-0km-contado-fletes-formularios-rs-_JM": {
-    "price": 31488,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4099154168-baic-x55-15-reev-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1793733759-baic-x35-15-luxury-of-_JM": {
-    "price": 23900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950359824-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1800601695-bj30-4x4-hybrido-usado-ff-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2799821100-nuevo-baic-bj-30-4x2-hybrid-15-2026-ag-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1579770121-baic-u5-15-plus-_JM": {
-    "price": 25600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2024172303-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4135760728-baic-u5-plus-15-cvt-_JM": {
-    "price": 19900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1587168457-baic-bj30-15t-bj30-2wd-hybrid-durzo-automoviles-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2041550227-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 72000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1683615411-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2184803607-baic-u5-15-plus-cvt-_JM": {
-    "price": 26400,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3927921550-baic-x55-ii-15t-luxury-7dct-_JM": {
     "price": 34400,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3306828610-baic-bj30-15t-4wd-hybrid-asesor-ulises-garcia-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2125595473-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33614,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4127514492-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2133559735-baic-bj30-15t-bj30-4wd-hybrid-dp-_JM": {
+    "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2093648063-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32242,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2134675703-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3853229912-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2125993285-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 37260,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3868979362-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1793655473-bj30-hibrid-4x4-y-4x2-permuta-usado-financiacion-ff-_JM": {
+    "price": 35040,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3559532194-baic-bj30-15t-4wd-hybrid-stock-fisico-ba-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2264790947-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2054907075-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987847997-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3897292748-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35800,
+  "https://auto.mercadolibre.com.ar/MLA-3328505126-baic-x35-15t-luxury-cvt-_JM": {
+    "price": 26500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3977491964-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 31500,
+  "https://auto.mercadolibre.com.ar/MLA-2230473877-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2133560549-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 28900,
+  "https://auto.mercadolibre.com.ar/MLA-2112986567-baic-x55-ii-15turbo-rehev-luxury-7dct-215cv-_JM": {
+    "price": 33900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2230469461-baic-x55-ii-luxury-hibrida-2026-0-km-_JM": {
-    "price": 33800,
+  "https://auto.mercadolibre.com.ar/MLA-3810983674-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950357954-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3368954550-baic-x55-ii-15t-7dct-suv-permuta-credito-jeep-3008-ff-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1760212305-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3222798672-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2230482037-baic-x55-ii-15t-luxury-7dct-hybrid-2026-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4143362912-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 29000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3861968724-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125785727-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2126084057-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1831350611-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3994777744-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950366498-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2090765195-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1882901685-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2184831055-baic-x55-ii-15-t-luxury-dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2133988601-baic-x55-ii-hibrida-_JM": {
-    "price": 33120,
+  "https://auto.mercadolibre.com.ar/MLA-1579770121-baic-u5-15-plus-_JM": {
+    "price": 25600,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2042197079-baic-bj30-15t-2wd-hybrid-_JM": {
     "price": 32500,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-1793733759-baic-x35-15-luxury-of-_JM": {
+    "price": 23900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3917009496-baic-bj60-20t-mhev-_JM": {
+    "price": 71300,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2005981121-baic-x55-ii-15t-luxury-7dct-_JM": {
     "price": 33120,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950325382-u5-plus-15-cvt-_JM": {
-    "price": 22900,
+  "https://auto.mercadolibre.com.ar/MLA-1748494607-baic-x55-plus-15t-7dct-_JM": {
+    "price": 38800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4035885410-baic-x55-ii-15-reev-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2133988601-baic-x55-ii-hibrida-_JM": {
     "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3122615590-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2090760059-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1711091879-baic-eu5-00-eu5-_JM": {
-    "price": 23999,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1644139175-baic-x55-ii-luxury-15l-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3786064956-baic-x55-ii-15-reev-_JM": {
-    "price": 33900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2133534885-baic-x55-ii-15t-luxury-7dct-dp-_JM": {
     "price": 29000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3534917824-baic-x55-ii-hibrida-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2250604891-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 19700,
+  "https://auto.mercadolibre.com.ar/MLA-2134386841-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2154291833-baic-x55e-hybrid-_JM": {
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2248623915-baic-x55ll-hibrid-rehev-mm-_JM": {
-    "price": 33500,
+  "https://auto.mercadolibre.com.ar/MLA-1683615411-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2249151381-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
+  "https://auto.mercadolibre.com.ar/MLA-3786064956-baic-x55-ii-15-reev-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1587168457-baic-bj30-15t-bj30-2wd-hybrid-durzo-automoviles-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3485738098-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 32900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2232710697-baic-bj60-20t-mhev-_JM": {
-    "price": 69000,
+  "https://auto.mercadolibre.com.ar/MLA-2143684185-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 46000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120621232-baic-x55-ii-hibrida-0-km-_JM": {
-    "price": 51100000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2169442947-baic-x55-hybrid-_JM": {
-    "price": 34500,
+  "https://auto.mercadolibre.com.ar/MLA-1711091879-baic-eu5-00-eu5-_JM": {
+    "price": 23999,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120658022-baic-bj30-15t-bj30-2wd-hybrid-bonificacion-julio-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-3122615590-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950359438-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35400,
+  "https://auto.mercadolibre.com.ar/MLA-1994728423-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35700,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2090764443-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1947385065-baic-x55-ii-15-reev-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2184803607-baic-u5-15-plus-cvt-_JM": {
+    "price": 26400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4075356092-baic-x55-15-reev-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2024172303-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950325382-u5-plus-15-cvt-_JM": {
+    "price": 22900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2275700073-eu5-permuto-cronos-logan-c4-argo-financio-plan-asia-rs-_JM": {
+    "price": 26312,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2057731691-baic-eu5-00-eu5-_JM": {
@@ -1143,24 +1035,448 @@
     "price": 28400,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2067042177-baic-eu5-00-eu5-_JM": {
-    "price": 35266000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-2758805548-baic-x55-plus-entrega-inmediata-baic-gonzalez-_JM": {
+    "price": 35500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4170540136-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 30000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120312140-baic-bj60-20t-mhev-_JM": {
+    "price": 74000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120550570-baic-bj60-20t-mhev-_JM": {
+    "price": 78600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3209142436-baic-bj60-20t-mhev-_JM": {
+    "price": 78600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950324792-baic-bj60-20t-mhev-_JM": {
+    "price": 68900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950358420-baic-bj60-20t-mhev-_JM": {
+    "price": 68900,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3206084872-baic-x35-15-luxury-at-_JM": {
     "price": 26490,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3306828610-baic-bj30-15t-4wd-hybrid-asesor-ulises-garcia-_JM": {
+    "price": 35000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1824383747-baic-bj40-pro-20t-4wd-stock-fisico-oportunidad-ba-_JM": {
     "price": 51000,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-4135760728-baic-u5-plus-15-cvt-_JM": {
+    "price": 19900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3983642884-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37260,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2125994723-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2638133202-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2143435279-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3919729308-baic-bj60-20t-mhev-flagship-_JM": {
+    "price": 68800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2060995065-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1727950811-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2799679046-baic-x55-ii-luxury-2026-ag-_JM": {
+    "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2799887372-baic-bj30-15t-bj30-2wd-hybrid-of-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1639355875-baic-bj30-15t-bj30-2wd-hybrid-hljt-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3770012706-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2249113175-baic-bj30-15t-bj30-4wd-hybrid-okm-2026-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120621232-baic-x55-ii-hibrida-0-km-_JM": {
+    "price": 51100000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3977491964-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2133560549-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 28900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230469461-baic-x55-ii-luxury-hibrida-2026-0-km-_JM": {
+    "price": 33800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950357954-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3368954550-baic-x55-ii-15t-7dct-suv-permuta-credito-jeep-3008-ff-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3222798672-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230482037-baic-x55-ii-15t-luxury-7dct-hybrid-2026-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4143362912-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3861968724-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2125785727-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2024164567-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2126084057-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3994777744-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950366498-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2090765195-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2184831055-baic-x55-ii-15-t-luxury-dct-_JM": {
+    "price": 36900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2058192657-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 30500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1986524911-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2076963399-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 35500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2260156361-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34990,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1786874951-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 35800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3372770528-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2198837605-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2807136484-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2802809146-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3060373082-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255397645-baic-x55-ii-15-reev-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2050998859-x35-15t-luxury-cvt-_JM": {
+    "price": 23900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4085236220-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4121742472-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3739532652-baic-bj30-4x2-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3490205650-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2004531811-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2772431572-baic-bj30-4x2-hev-_JM": {
+    "price": 33990,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3914496990-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 29800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3656739916-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 35800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2172376593-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-3776684200-baic-x55-ii-15t-luxury-7dct-_JM": {
     "price": 31800,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-4120658022-baic-bj30-15t-bj30-2wd-hybrid-bonificacion-julio-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3064181972-baic-x35-15t-okm-2026-_JM": {
+    "price": 27900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2023830561-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 27700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1921438905-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 27390,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120313832-baic-x55-ii-hibrida-0km-2026-_JM": {
+    "price": 32800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4075579798-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2254881449-baic-x55-ii-15-reev-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2272600107-baic-x35-15-luxury-auto-_JM": {
+    "price": 30020000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2137488509-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2248623915-baic-x55ll-hibrid-rehev-mm-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2035975775-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 50900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3534917824-baic-x55-ii-hibrida-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4127748214-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 36990,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2036173993-baic-bj30-15t-4x4-hybrid-2026-rpm-moviles-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2106879283-baic-bj30-bj30-hybrid-4x2-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4165810076-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3424295502-baic-bj30-4x4-_JM": {
+    "price": 38900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4132009090-baic-bj30-2026-hybrid-4x4-_JM": {
+    "price": 45000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4131786106-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3915361710-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3861957342-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 36500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2157537523-baic-x55e-_JM": {
+    "price": 37000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3955597176-baic-bj60-20t-mhev-_JM": {
+    "price": 68000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3209089528-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 51900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950359438-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2758925442-baic-u5-plus-sedan-15-cvt-automatico-entrega-inmediata-_JM": {
+    "price": 22850,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2076340769-baic-u5-plus-15-cvt-of-_JM": {
+    "price": 24950,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1778181435-baic-u5-plus-15-cvt-of-_JM": {
+    "price": 24950,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3955461166-baic-u5-plus-15-cvt-_JM": {
+    "price": 25100,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2227214101-baic-u5-plus-15-cvt-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2161392865-baic-u5-plus-15-cvt-_JM": {
+    "price": 35750000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3927934020-baic-u5-plus-15-cvt-_JM": {
+    "price": 23000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3531539916-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4010364472-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 33000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1895602771-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4022050860-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1788724325-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950359824-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987846987-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3959305884-baic-bj-30-4-x-2-2026-_JM": {
+    "price": 32400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1943939687-baic-x55-ii-15-reev-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3866807476-baic-x55-plus-15t-7dct-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3337730498-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 33950,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3919204306-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 37500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2154174417-baic-x55-15t-luxury-7dct-_JM": {
+    "price": 36900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1887294931-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4173608804-baic-x55-ii-15-reev-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-4127507142-baic-x55-ii-15-reev-_JM": {
     "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2232067529-baic-x55-ii-15-reev-_JM": {
+    "price": 34300,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4119993624-baic-x55-ii-15-reev-_JM": {
@@ -1183,12 +1499,24 @@
     "price": 33900,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-4173727060-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2230463575-baic-x55-ii-15-reev-_JM": {
     "price": 33800,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-2268333909-baic-x55-ii-15-reev-_JM": {
+    "price": 34469,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-3791541060-baic-x55-ii-15-reev-_JM": {
     "price": 34200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2267827055-baic-x55-ii-15-reev-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4128891430-baic-x55-ii-15-reev-_JM": {
@@ -1227,348 +1555,116 @@
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2249113175-baic-bj30-15t-bj30-4wd-hybrid-okm-2026-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4120312140-baic-bj60-20t-mhev-_JM": {
-    "price": 74000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4120550570-baic-bj60-20t-mhev-_JM": {
-    "price": 78600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3209142436-baic-bj60-20t-mhev-_JM": {
-    "price": 78600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950324792-baic-bj60-20t-mhev-_JM": {
-    "price": 68900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950358420-baic-bj60-20t-mhev-_JM": {
-    "price": 68900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4151247976-baic-bj60-20t-mhev-_JM": {
-    "price": 78600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1727950811-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2799679046-baic-x55-ii-luxury-2026-ag-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4075579798-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2058192657-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2261358691-baic-bj30-15t-2wd-hybrid-2026-rpm-moviles-rpm-moviles-_JM": {
     "price": 30500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2076963399-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 35500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2260156361-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 34990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1786874951-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 35800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3372770528-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2198837605-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2807136484-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3060373082-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4085236220-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4121742472-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3739532652-baic-bj30-4x2-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3490205650-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2004531811-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2772431572-baic-bj30-4x2-hev-_JM": {
-    "price": 33990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3914496990-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 29800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3656739916-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 35800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2050998859-x35-15t-luxury-cvt-_JM": {
-    "price": 23900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1852039249-baic-bj30-15t-4wd-hybrid-asesor-elias-homsi-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1952110487-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33614,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3209089528-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 51900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1994728423-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2799887372-baic-bj30-15t-bj30-2wd-hybrid-of-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2172376593-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2112986567-baic-x55-ii-15turbo-rehev-luxury-7dct-215cv-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4128890938-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 27500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3994307590-baic-bj60-20t-mhev-_JM": {
-    "price": 69500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4153297226-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2758925442-baic-u5-plus-sedan-15-cvt-automatico-entrega-inmediata-_JM": {
-    "price": 22850,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2036173993-baic-bj30-15t-4x4-hybrid-2026-rpm-moviles-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2106879283-baic-bj30-bj30-hybrid-4x2-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3424295502-baic-bj30-4x4-_JM": {
-    "price": 38900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3915361710-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3861957342-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1602126389-baic-x55-plus-15t-_JM": {
-    "price": 40500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1788714077-baic-bj30-4wd-hybrid-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2076340769-baic-u5-plus-15-cvt-of-_JM": {
-    "price": 24950,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778181435-baic-u5-plus-15-cvt-of-_JM": {
-    "price": 24950,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3955461166-baic-u5-plus-15-cvt-_JM": {
-    "price": 25100,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2227214101-baic-u5-plus-15-cvt-_JM": {
-    "price": 23500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2161392865-baic-u5-plus-15-cvt-_JM": {
-    "price": 35750000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3927934020-baic-u5-plus-15-cvt-_JM": {
-    "price": 23000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2177873679-baic-x25-15-elite-_JM": {
-    "price": 11500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1788741465-baic-eu5-_JM": {
-    "price": 25900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1896944759-baic-u5-plus-15-cvt-_JM": {
-    "price": 25400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3926998746-baic-x-55-ii-hibrida-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4140722752-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 26500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3531539916-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4010364472-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1895602771-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4022050860-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2035975775-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 50900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2157537523-baic-x55e-_JM": {
-    "price": 37000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3958860176-nueva-baic-x55-hibrida-no-leap-no-byd-no-jetour-_JM": {
-    "price": 31850,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1639355875-baic-bj30-15t-bj30-2wd-hybrid-hljt-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2251041923-baic-x55e-hybrid-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3706295612-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3833449448-baic-x35-15-luxury-at-_JM": {
-    "price": 22499,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2758805548-baic-x55-plus-entrega-inmediata-baic-gonzalez-_JM": {
-    "price": 35500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1788724325-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1932310315-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 37240,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2243631087-baic-x25-15-elite-_JM": {
-    "price": 15400000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2249138653-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2236702747-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3959305884-baic-bj-30-4-x-2-2026-_JM": {
-    "price": 32400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4131676596-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3337730498-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 33950,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3919204306-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 37500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2154174417-baic-x55-15t-luxury-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1887294931-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778181113-baic-bj40-pro-20t-4wd-of-_JM": {
-    "price": 50900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4146204992-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 30000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3810983674-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4031216136-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3866807476-baic-x55-plus-15t-7dct-_JM": {
-    "price": 35900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2184829801-baic-eu5-plus-at-_JM": {
     "price": 29900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3907437016-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-1882855087-baic-u5-plus-15-cvt-_JM": {
+    "price": 22850,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1932310315-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 37240,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1778181113-baic-bj40-pro-20t-4wd-of-_JM": {
+    "price": 50900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1903956091-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4043945362-baic-bj60-20-t-4x4-milhybrid-at8-_JM": {
+    "price": 78600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2249138653-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3636870788-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 34300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2146407173-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3776173766-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35720,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2232710697-baic-bj60-20t-mhev-_JM": {
+    "price": 69000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2164692977-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 50900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4004401832-baic-bj30-15t-bj30-4wd-hybrid-ac-_JM": {
     "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3917344512-baic-x55-hibrida-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4170098230-baic-x35-15t-_JM": {
+    "price": 28500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4114510272-baic-x55-ii-hibrida-dp-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2143714179-baic-eu5-00-lcb-_JM": {
+    "price": 27500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4068688568-baic-x55-15-turbo-modelo-2018-_JM": {
+    "price": 22905000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3876518298-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1788714077-baic-bj30-4wd-hybrid-_JM": {
+    "price": 36500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2239502441-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 18500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4098261168-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2270734851-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2243631087-baic-x25-15-elite-_JM": {
+    "price": 15400000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3777309210-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4159084744-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 53500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2249151381-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4160945078-baic-bj40-pro-20t-4wd-_JM": {
@@ -1580,7 +1676,11 @@
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4160118016-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 51800,
+    "price": 51400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1797579403-baic-bj40-pro-20t-4wd-tomo-usado-permuta-jeep-credito-ff-_JM": {
+    "price": 52000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1831335895-baic-bj40-pro-20t-4wd-_JM": {
@@ -1603,120 +1703,180 @@
     "price": 54500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4004401832-baic-bj30-15t-bj30-4wd-hybrid-ac-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2023830561-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 27700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1921438905-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 27390,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143714179-baic-eu5-00-lcb-_JM": {
-    "price": 27500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2184805391-baic-bj40-20-t-4x4-plus-at8-_JM": {
-    "price": 63900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4043945362-baic-bj60-20-t-4x4-milhybrid-at8-_JM": {
-    "price": 78600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3776173766-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35720,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2149163031-baic-bj40-pro-20t-4wd-jeep-wrangler-sw4-off-road-j-_JM": {
-    "price": 51800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1943939687-baic-x55-ii-15-reev-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-1778184599-baic-bj30-15t-2wd-hybrid-of-_JM": {
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1903956091-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143435279-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2054189399-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3917344512-baic-x55-hibrida-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2090765021-baic-x55-ii-15-reev-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2245691857-baic-x55-plus-15t-7dct-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4114510272-baic-x55-ii-hibrida-dp-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4156115480-baic-x55-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2239579403-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3777309210-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4098261168-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4123471820-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 31900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2248616871-baic-x55-hybrid-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143712445-baic-bj30-15t-bj30-2wd-hybrid-lcb-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-4128890938-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 26500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3927921958-baic-u5-15-plus-_JM": {
     "price": 36500000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1797579403-baic-bj40-pro-20t-4wd-tomo-usado-permuta-jeep-credito-ff-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2090765021-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3923428156-baic-bj30-15t-4x4-hybrid-2026-_JM": {
+    "price": 37240,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3919595338-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2190060035-baic-x55-plus-15t-7dct-_JM": {
+    "price": 39500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255373453-baic-eu5-00-eu5-_JM": {
+    "price": 26400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2054189399-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1852039249-baic-bj30-15t-4wd-hybrid-asesor-elias-homsi-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2232398921-baic-bj30-15t-bj30-4wd-hybrid-liv-motors-_JM": {
+    "price": 38500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4173331138-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2271429961-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3914934012-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3958860176-nueva-baic-x55-hibrida-no-leap-no-byd-no-jetour-_JM": {
+    "price": 31850,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4122870482-baic-bj40-pro-20t-4wd-_JM": {
     "price": 52000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4112973236-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 39500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2236702747-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2802859894-baic-x55-15-plus-_JM": {
+    "price": 41500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3940135294-baic-x55-15t-elite-cvt-_JM": {
+    "price": 20500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3283461368-baic-eu5-00-eu5-of-_JM": {
+    "price": 27500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2172568913-baic-eu5-00-eu5-_JM": {
+    "price": 26900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2227220641-baic-eu5-00-eu5-_JM": {
+    "price": 26500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2085731367-baic-bj60-20t-mhev-_JM": {
+    "price": 71000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1778140969-baic-bj60-20t-mhev-of-_JM": {
+    "price": 68900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3915218488-baic-bj60-20t-mhev-_JM": {
+    "price": 72000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4045648554-baic-u5-15-plus-cvt-_JM": {
+    "price": 26400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2266030863-baic-x55-ii-2026-15t-cvt-fwd-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4120552244-baic-bj40-pro-20t-4x4-at-zf-0-km-2026-_JM": {
     "price": 54500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950323714-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32400,
+  "https://auto.mercadolibre.com.ar/MLA-1814242007-baic-bj30-4x2-y-4x4-permuta-usado-credito-hibrido-byd-j-_JM": {
+    "price": 35100,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4136637918-baic-x35-15-luxury-at-_JM": {
-    "price": 27000000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-2232478773-baic-bj40-20t-4wd-3p-_JM": {
+    "price": 52000,
+    "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2190060035-baic-x55-plus-15t-7dct-_JM": {
-    "price": 39500,
+  "https://auto.mercadolibre.com.ar/MLA-2149163031-baic-bj40-pro-20t-4wd-jeep-wrangler-sw4-off-road-j-_JM": {
+    "price": 51800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4031216136-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2264241051-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 22900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3935557274-baic-x55-hibrida-disponible-entrega-ya-jf-_JM": {
+    "price": 32890,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2143712445-baic-bj30-15t-bj30-2wd-hybrid-lcb-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2128522337-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4156115480-baic-x55-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1882901685-baic-x55-ii-2-15t-luxury-_JM": {
+    "price": 36900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4123471820-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 31900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3876521644-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 50900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2236672477-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 38000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2184805391-baic-bj40-20-t-4x4-plus-at8-_JM": {
+    "price": 63900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1777409995-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33800,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3414484910-baic-x55-ii-15t-luxury-7dct-of-_JM": {
@@ -1743,288 +1903,180 @@
     "price": 34700,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2802859894-baic-x55-15-plus-_JM": {
-    "price": 41500,
+  "https://auto.mercadolibre.com.ar/MLA-3685116240-gac-emkoo-20-hibrido-2026-0km-mg-chery-baic-tiggo-mg3-zs-_JM": {
+    "price": 30800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2073583993-baic-bj30-15t-2wd-hybrid-ep-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4132631386-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2232398921-baic-bj30-15t-bj30-4wd-hybrid-liv-motors-_JM": {
-    "price": 38500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2160832077-x55-ii-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3914934012-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 33700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4045648554-baic-u5-15-plus-cvt-_JM": {
-    "price": 26400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2264238681-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 29000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1654571763-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 37000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4133595912-baic-bj30-2026-15t-bj30-2wd-hybrid-_JM": {
-    "price": 30500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4074632810-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 21000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778184599-baic-bj30-15t-2wd-hybrid-of-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3876518298-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3923428156-baic-bj30-15t-4x4-hybrid-2026-_JM": {
-    "price": 37240,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2036223545-baic-bj60-20t-mhev-_JM": {
-    "price": 68900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4128481320-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4140122370-baic-x-35-luxury-at-2024-rpm-moviles-_JM": {
-    "price": 20200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3998221774-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 20900,
+  "https://auto.mercadolibre.com.ar/MLA-3786065490-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2799552760-baic-bj30-15t-bj30-4wd-hybrid-dd-_JM": {
     "price": 35500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2128522337-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3283461368-baic-eu5-00-eu5-of-_JM": {
-    "price": 27500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2172568913-baic-eu5-00-eu5-_JM": {
-    "price": 26900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2255373453-baic-eu5-00-eu5-_JM": {
-    "price": 26400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2227220641-baic-eu5-00-eu5-_JM": {
-    "price": 26500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1987836219-baic-x55-ii-15-reev-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2248796799-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 15000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3925849986-baic-x55-ii-15-reev-_JM": {
-    "price": 32800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4040499774-baic-x55-ii-15-reev-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2096987091-baic-x55-ii-15-reev-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2145319383-x55-15-rehev-hibrida-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2146407173-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3919595338-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2085731367-baic-bj60-20t-mhev-_JM": {
-    "price": 71000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3915218488-baic-bj60-20t-mhev-_JM": {
-    "price": 72000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2802809146-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 34300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2245626175-baic-x55-15-luxury-cvt-_JM": {
-    "price": 31645548,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4054059890-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 26900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3636870788-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2236672477-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 38000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1777409995-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 33800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3964016306-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3935557274-baic-x55-hibrida-disponible-entrega-ya-jf-_JM": {
-    "price": 32890,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3685116240-gac-emkoo-20-hibrido-2026-0km-mg-chery-baic-tiggo-mg3-zs-_JM": {
-    "price": 30800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2264241051-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 22900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2024164567-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2638133202-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 35000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4108619048-baic-x25-2018-senova-elite-15-at-_JM": {
-    "price": 15900000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3786065490-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2232067529-baic-x55-ii-15-reev-_JM": {
-    "price": 34300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4044893956-baic-x35-15-luxury-at-_JM": {
-    "price": 30500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3876521644-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 50900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4075356092-baic-x55-15-reev-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2258886991-baic-x25-15-elite-_JM": {
-    "price": 11200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1882855087-baic-u5-plus-15-cvt-_JM": {
-    "price": 22850,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3932329348-baic-u5-plus-15-cvt-_JM": {
-    "price": 22600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3959293420-baic-bj-30-4-x-4-2026-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4045648412-baic-eu5-decreto-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3983642884-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37260,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2255988175-baic-x35-15-luxury-at-_JM": {
-    "price": 23800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2141372055-baic-x55-hibrido-15-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1944477923-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33120,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2161465975-baic-u5-15-plus-_JM": {
-    "price": 38500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2104572767-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 33120,
+  "https://auto.mercadolibre.com.ar/MLA-4154122762-baic-x35-15-luxury-_JM": {
+    "price": 10000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2057744275-baic-eu5-00-eu5-_JM": {
     "price": 27500,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-1788741465-baic-eu5-_JM": {
+    "price": 25900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3964016306-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3897292748-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2036223545-baic-bj60-20t-mhev-_JM": {
+    "price": 68900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1944477923-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2177873679-baic-x25-15-elite-_JM": {
+    "price": 11500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2104572767-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 33120,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1896944759-baic-u5-plus-15-cvt-_JM": {
+    "price": 25400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4045648412-baic-eu5-decreto-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255400127-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 49900000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2161465975-baic-u5-15-plus-_JM": {
+    "price": 38500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3959293420-baic-bj-30-4-x-4-2026-_JM": {
+    "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2113008985-baic-x55-15-reev-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2133539461-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3994913110-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 37260,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2141372055-baic-x55-hibrido-15-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230610077-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 29340,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-4022071804-baic-x55e-hibrida-_JM": {
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4133621690-baic-arcfox-2026-t1-subcompacto-_JM": {
-    "price": 28500,
+  "https://auto.mercadolibre.com.ar/MLA-2250780855-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4075330436-baic-bj60-20t-mhev-_JM": {
-    "price": 68900,
+  "https://auto.mercadolibre.com.ar/MLA-2236680021-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3611346912-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 22200,
+  "https://auto.mercadolibre.com.ar/MLA-2236698721-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2092654657-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 49900,
+  "https://auto.mercadolibre.com.ar/MLA-4119506838-baic-x55-plus-15t-7dct-_JM": {
+    "price": 33000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1873673101-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 34000,
+  "https://auto.mercadolibre.com.ar/MLA-3977493734-baic-x55-plus-15t-7dct-_JM": {
+    "price": 39000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4103958324-baic-x-55-hibrida-no-changan-no-chery-no-jetour-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-3206087594-baic-x55-plus-15t-7dct-_JM": {
+    "price": 39900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4120621390-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3368954078-baic-x55-plus-15t-7dct-jeep-compass-suv-permuta-credito-ff-_JM": {
+    "price": 39000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2090768221-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3914497504-baic-x55-plus-15t-7dct-_JM": {
+    "price": 41000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950361054-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4031295038-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2057534981-baic-x55-plus-15t-7dct-_JM": {
+    "price": 39900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2154850253-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255400167-baic-x55-plus-15t-7dct-_JM": {
+    "price": 38000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2248616871-baic-x55-hybrid-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3776177148-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32242,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4153297226-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2222096619-baic-x55-0km-leapmotor-b10-2027-2026-chino-suv-byd-_JM": {
+    "price": 31990,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4127752002-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 25900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3926998746-baic-x-55-ii-hibrida-_JM": {
+    "price": 34500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3927000188-baic-x-55-luxury-cvt-2026-rpm-moviles-_JM": {
@@ -2035,12 +2087,8 @@
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3776177148-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32242,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2035421437-baic-x55-plus-15t-7dct-_JM": {
-    "price": 35900,
+  "https://auto.mercadolibre.com.ar/MLA-1873673101-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 34000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2676527432-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -2060,164 +2108,152 @@
     "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2245632263-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 36000,
+    "price": 35900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2217347015-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 37900,
+  "https://auto.mercadolibre.com.ar/MLA-3925849986-baic-x55-ii-15-reev-_JM": {
+    "price": 32800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4112973236-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 39500,
+  "https://auto.mercadolibre.com.ar/MLA-4040499774-baic-x55-ii-15-reev-_JM": {
+    "price": 36500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120914592-baic-bj30-2026-15t-bj30-2wd-hybrid-_JM": {
-    "price": 30500,
+  "https://auto.mercadolibre.com.ar/MLA-2096987091-baic-x55-ii-15-reev-_JM": {
+    "price": 33900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2165524655-baic-x35-15t-_JM": {
-    "price": 28500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4054406234-15-hybrid-rehev-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2145319383-x55-15-rehev-hibrida-_JM": {
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4068688568-baic-x55-15-turbo-modelo-2018-_JM": {
-    "price": 22905000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-4103958324-baic-x-55-hibrida-no-changan-no-chery-no-jetour-_JM": {
+    "price": 32500,
+    "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2057552353-baic-x55-plus-15t-executive-7dct-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-4131676596-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2211853609-baic-x25-15-elite-_JM": {
-    "price": 10500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1814242007-baic-bj30-4x2-y-4x4-permuta-usado-credito-hibrido-byd-j-_JM": {
-    "price": 35100,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2567699536-baic-eu5-_JM": {
     "price": 24000,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-1982561411-baic-bj30-15t-bj30-4wd-hybrid-ep-_JM": {
+    "price": 35500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4054406234-15-hybrid-rehev-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2067127395-baic-bj40-pro-20t-4wd-_JM": {
     "price": 51000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2001742487-baic-bj30-15t-2wd-hybrid-ep-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-4103962612-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 51000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4131786106-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 36000,
+  "https://auto.mercadolibre.com.ar/MLA-4054059890-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 26900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2226961143-baic-x35-2018-15-luxury-at-_JM": {
-    "price": 11800,
+  "https://auto.mercadolibre.com.ar/MLA-1944535473-baic-x35-15t-fashion-cvt-150cv-_JM": {
+    "price": 25900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4128492750-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 52980,
+  "https://auto.mercadolibre.com.ar/MLA-3724580568-baic-x35-luxury-cvt-_JM": {
+    "price": 26500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2237349153-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 52865,
+  "https://auto.mercadolibre.com.ar/MLA-3994307590-baic-bj60-20t-mhev-_JM": {
+    "price": 69500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3016877490-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 51900,
+  "https://auto.mercadolibre.com.ar/MLA-4140122370-baic-x-35-luxury-at-2024-rpm-moviles-_JM": {
+    "price": 19950,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1893015879-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 54500,
+  "https://auto.mercadolibre.com.ar/MLA-2126000619-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 37260,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2055299393-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 55500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3927923348-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 54500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4022075836-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 53000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1937093997-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 52900,
+  "https://auto.mercadolibre.com.ar/MLA-2035421437-baic-x55-plus-15t-7dct-_JM": {
+    "price": 35900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2112763183-baic-x-55-ii-hibrida-no-jetour-no-changan-no-haval-_JM": {
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2164692977-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 50900,
+  "https://auto.mercadolibre.com.ar/MLA-4075330436-baic-bj60-20t-mhev-_JM": {
+    "price": 68900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2255400127-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 49900000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950322508-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32400,
+  "https://auto.mercadolibre.com.ar/MLA-2001742487-baic-bj30-15t-2wd-hybrid-ep-_JM": {
+    "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4068672958-baic-x35-15t-fashion-plus-cvt-150cv-_JM": {
-    "price": 23900,
+  "https://auto.mercadolibre.com.ar/MLA-4074632810-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 21000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1982561411-baic-bj30-15t-bj30-4wd-hybrid-ep-_JM": {
-    "price": 35500,
+  "https://auto.mercadolibre.com.ar/MLA-3932329348-baic-u5-plus-15-cvt-_JM": {
+    "price": 22600,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3940135294-baic-x55-15t-elite-cvt-_JM": {
-    "price": 20500000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-2261776195-baic-x55-ii-15-reev-_JM": {
+    "price": 31900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2268141209-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 33000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2097395935-baic-x55-plus-15t-7dct-2027-0km-1167468820-_JM": {
+    "price": 36500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2217347015-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 37900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3958884196-baic-u5-15-cvt-plus-2027-0km-1167468820-_JM": {
+    "price": 24500,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4154131052-baic-bj30-15t-hev-_JM": {
-    "price": 49932734,
+    "price": 48762027,
     "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2248237051-baic-bj30-15t-hev-_JM": {
-    "price": 47083946,
+    "price": 47114077,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4098666490-baic-x55-15t-elite-cvt-_JM": {
-    "price": 27700,
+  "https://auto.mercadolibre.com.ar/MLA-4104747104-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 49999,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4114543194-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 28000,
+  "https://auto.mercadolibre.com.ar/MLA-3723321152-baic-x55-ii-15-reev-_JM": {
+    "price": 33900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4135153850-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 41000000,
+  "https://auto.mercadolibre.com.ar/MLA-1895977949-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 27200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4136637918-baic-x35-15-luxury-at-_JM": {
+    "price": 27000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2255611761-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 34500,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-3963217136-baic-x55-ii-15-t-luxury-dct-_JM": {
+    "price": 42945000,
+    "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3064181972-baic-x35-15t-okm-2026-_JM": {
-    "price": 27900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2133539461-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 36000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2125993285-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 37260,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3994913110-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 37260,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-2245626175-baic-x55-15-luxury-cvt-_JM": {
+    "price": 30800068,
+    "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4108332880-baic-bj30-15t-4wd-hybrid-_JM": {
     "price": 35990,
@@ -2227,76 +2263,24 @@
     "price": 52500000,
     "currency": "$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-2051653689-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 35200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3940611728-baic-x55-plus-15-turbo-suv-2026-0km-_JM": {
+    "price": 42500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3927870246-baic-x55-plus-15t-7dct-_JM": {
+    "price": 42500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3577301872-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 37000,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2255102809-baic-u5-plus-15-cvt-_JM": {
     "price": 22000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3963217136-baic-x55-ii-15-t-luxury-dct-_JM": {
-    "price": 42945000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2250780855-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2236680021-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2236698721-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4119506838-baic-x55-plus-15t-7dct-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3977493734-baic-x55-plus-15t-7dct-_JM": {
-    "price": 39000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3206087594-baic-x55-plus-15t-7dct-_JM": {
-    "price": 39900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2230473877-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4120621390-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3368954078-baic-x55-plus-15t-7dct-jeep-compass-suv-permuta-credito-ff-_JM": {
-    "price": 39000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3914497504-baic-x55-plus-15t-7dct-_JM": {
-    "price": 41000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950361054-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4031295038-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2057534981-baic-x55-plus-15t-7dct-_JM": {
-    "price": 39900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2154850253-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2255400167-baic-x55-plus-15t-7dct-_JM": {
-    "price": 38000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2126000619-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 37260,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4143593066-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
@@ -2305,14 +2289,6 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-2248235091-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 40000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2236363967-baic-x25-15-elite-l18-_JM": {
-    "price": 17000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2246264791-baic-bj60-20t-mhev-_JM": {
-    "price": 59900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2031748521-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -2347,8 +2323,12 @@
     "price": 35800,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-2273348291-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 33000,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-3954540272-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32500,
+    "price": 33800,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1972747733-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -2383,10 +2363,6 @@
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2230610077-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 29340,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-3747759628-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 31500,
     "currency": "US$"
@@ -2403,7 +2379,7 @@
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2261358691-baic-bj30-15t-2wd-hybrid-2026-rpm-moviles-rpm-moviles-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-4120914592-baic-bj30-2026-15t-bj30-2wd-hybrid-_JM": {
     "price": 30500,
     "currency": "US$"
   },
@@ -2411,8 +2387,16 @@
     "price": 32000,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-4133595912-baic-bj30-2026-15t-bj30-2wd-hybrid-_JM": {
+    "price": 30500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-4069140200-baic-bj30-15t-2wd-hybrid-ep-_JM": {
     "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2070100203-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 33900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2169421069-baic-bj30-15t-2wd-hybrid-_JM": {
@@ -2423,36 +2407,112 @@
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2113008985-baic-x55-15-reev-_JM": {
-    "price": 32900,
+  "https://auto.mercadolibre.com.ar/MLA-4114543194-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 28000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4087109004-baic-x55-hibrido-_JM": {
-    "price": 33000,
+  "https://auto.mercadolibre.com.ar/MLA-2143894381-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 30000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3995414644-bj30-hybrid-4x2-78962-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4014333134-baic-x55-ii-luxury-15t-luxury-2026-_JM": {
-    "price": 33499,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4080149658-baic-x55-ii-15-reev-_JM": {
-    "price": 33500,
+  "https://auto.mercadolibre.com.ar/MLA-4173322462-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 50000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2140979849-baic-x55-plus-luxury-2026-_JM": {
     "price": 38500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1944535473-baic-x35-15t-fashion-cvt-150cv-_JM": {
-    "price": 25900,
+  "https://auto.mercadolibre.com.ar/MLA-4128492750-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 52980,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3724580568-baic-x35-luxury-cvt-_JM": {
-    "price": 26500,
+  "https://auto.mercadolibre.com.ar/MLA-2237349153-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 52865,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3016877490-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 51900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1893015879-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 54500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2055299393-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 55500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3927923348-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 54500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4022075836-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 53000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1937093997-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 52900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4014333134-baic-x55-ii-luxury-15t-luxury-2026-_JM": {
+    "price": 33499,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3995414644-bj30-hybrid-4x2-78962-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2265459257-baic-bj30-15-t-4x2-hybrid-dht-_JM": {
+    "price": 47700000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4087109004-baic-x55-hibrido-_JM": {
+    "price": 33000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2169449513-baic-x35-luxury-cvt-150-cv-_JM": {
+    "price": 28200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3374047846-x35-suv-15-turbo-naftero-caja-cvt-150-cv-de-potencia-_JM": {
+    "price": 27400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2104018949-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 24000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1873695535-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 28200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2239579403-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 24500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2140979825-baic-x35-luxury-2026-_JM": {
+    "price": 28899,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2270476299-baic-x35-luxury-_JM": {
+    "price": 28500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4080149658-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2092654657-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 49900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4128481320-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4069984046-baic-bj30-15t-2wd-hybrid-at-_JM": {
+    "price": 31900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2229834937-baic-bj30-15t-0km-30-4x4-no-jetour-no-byd-no-territory-_JM": {
@@ -2479,12 +2539,20 @@
     "price": 35900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4120620540-baic-eu5-00-eu5-_JM": {
-    "price": 23500,
+  "https://auto.mercadolibre.com.ar/MLA-2788240164-baic-x35-15t-luxury-cvt-_JM": {
+    "price": 24500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3723321152-baic-x55-ii-15-reev-_JM": {
-    "price": 33900,
+  "https://auto.mercadolibre.com.ar/MLA-3777500834-baic-bj30-15t-bj30-2wd-hybrid-ep-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1928886729-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 46000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2067133433-baic-x55-hibrida-_JM": {
+    "price": 33197,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2143665317-baic-u5-plus-15-cvt-lcb-_JM": {
@@ -2519,14 +2587,6 @@
     "price": 21500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4127748214-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 36990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2134675703-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-3531440304-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 36000,
     "currency": "US$"
@@ -2543,8 +2603,8 @@
     "price": 36200,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2103712875-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
+  "https://auto.mercadolibre.com.ar/MLA-1654571763-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 37000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2255765541-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
@@ -2567,56 +2627,40 @@
     "price": 37900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4069984046-baic-bj30-15t-2wd-hybrid-at-_JM": {
-    "price": 31900,
+  "https://auto.mercadolibre.com.ar/MLA-4108619048-baic-x25-2018-senova-elite-15-at-_JM": {
+    "price": 15900000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1987836219-baic-x55-ii-15-reev-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2073583993-baic-bj30-15t-2wd-hybrid-ep-_JM": {
+    "price": 32500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2852127950-baic-bj30-15t-2wd-hybrid-_JM": {
     "price": 35800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2788240164-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 24500,
+  "https://auto.mercadolibre.com.ar/MLA-4140722752-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 26500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2161474187-baic-x55-rehev-hybrid-215hp-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2255760277-baic-x55-plus-15t-executive-7dct-_JM": {
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2225372179-baic-x55-15-plus-cvt-_JM": {
-    "price": 43800101,
+  "https://auto.mercadolibre.com.ar/MLA-4120620540-baic-eu5-00-eu5-_JM": {
+    "price": 23500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4044893956-baic-x35-15-luxury-at-_JM": {
+    "price": 30500000,
     "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4043969838-baic-x55-ii-2026-15t-cvt-fwd-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2051653689-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 35200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1928886729-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 46000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1902526269-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 29900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3777500834-baic-bj30-15t-bj30-2wd-hybrid-ep-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2083313623-baic-bj60-20-turbo-mhev-4x4-suv-0km-_JM": {
-    "price": 78600,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1895977949-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 27200,
-    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2140979749-baic-bj30-4wd-hybrid-2026-_JM": {
-    "price": 33500,
+    "price": 37499,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2140928781-baic-bj30-4wd-hybrid-2026-_JM": {
@@ -2627,220 +2671,76 @@
     "price": 33498,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2067133433-baic-x55-hibrida-_JM": {
-    "price": 33197,
+  "https://auto.mercadolibre.com.ar/MLA-2267871777-baic-x25-15-elite-at-_JM": {
+    "price": 13200,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4132009090-baic-bj30-2026-hybrid-4x4-_JM": {
-    "price": 45000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3685632668-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 48900000,
+  "https://auto.mercadolibre.com.ar/MLA-2254880719-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 46000000,
     "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1650118207-baic-x55-ii-plus-15t-dct-_JM": {
     "price": 42500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2080172705-baic-x55-ii-hibrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2169449513-baic-x35-luxury-cvt-150-cv-_JM": {
-    "price": 28200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3374047846-x35-suv-15-turbo-naftero-caja-cvt-150-cv-de-potencia-_JM": {
-    "price": 27400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2104018949-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 24000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2212989449-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 28500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1873695535-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 28200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2140979825-baic-x35-luxury-2026-_JM": {
-    "price": 28899,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2164871361-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4048696816-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 39000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2237324179-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 53000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4132999050-baic-bj60-20t-mhev-_JM": {
-    "price": 55000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4131934730-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 27500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2242981093-baic-bj40-20-t-4x4-plus-at8-_JM": {
-    "price": 59500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2160353321-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2232478773-baic-bj40-20t-4wd-3p-_JM": {
-    "price": 52000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2091263487-baic-x35-15-luxury-at-_JM": {
-    "price": 21500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143894381-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 30000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2222096619-baic-x55-0km-leapmotor-b10-2027-2026-chino-suv-byd-_JM": {
-    "price": 31990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143649175-baic-x55-15t-luxury-cvt-lcb-_JM": {
-    "price": 31500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3995416308-u5-plus-78428-_JM": {
-    "price": 27900000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2090768221-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
+  "https://auto.mercadolibre.com.ar/MLA-2248796799-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 15000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1778120407-baic-bj40-pro-20t-4wd-of-_JM": {
     "price": 50900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3950639582-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 41000,
+  "https://auto.mercadolibre.com.ar/MLA-2103712875-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2097920699-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36000,
+  "https://auto.mercadolibre.com.ar/MLA-2161474187-baic-x55-rehev-hybrid-215hp-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3611346912-baic-x35-15t-luxury-cvt-_JM": {
+    "price": 22200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3998221774-baic-x35-15t-luxury-cvt-_JM": {
+    "price": 20900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2225372179-baic-x55-15-plus-cvt-_JM": {
+    "price": 43333059,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3685632668-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 48900000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2803054804-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2264744351-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 23500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2106855693-baic-x55-plus-x55-ii-plus-_JM": {
+    "price": 46500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3717245978-baic-x55-ii-15-reev-_JM": {
     "price": 32500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2100602013-baic-x55-15-t-plus-7dct-_JM": {
-    "price": 52395000,
+  "https://auto.mercadolibre.com.ar/MLA-2091263487-baic-x35-15-luxury-at-_JM": {
+    "price": 21500000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2120401721-baic-x55-ii-hibrida-_JM": {
-    "price": 34900,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-3995416308-u5-plus-78428-_JM": {
+    "price": 27900000,
+    "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3928200190-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4039256974-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3531543980-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2104588537-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 29000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3992837042-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3907056556-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 34700,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1960849207-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 34900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3967792354-baic-u5-plus-2026-_JM": {
-    "price": 23300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3958884196-baic-u5-15-cvt-plus-2027-0km-1167468820-_JM": {
-    "price": 24500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3376831512-baic-x55-ii-hibrida-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1778140969-baic-bj60-20t-mhev-of-_JM": {
-    "price": 68900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950322964-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4139295090-baic-eu5-00-eu5-_JM": {
-    "price": 27000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2097395935-baic-x55-plus-15t-7dct-2027-0km-1167468820-_JM": {
-    "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2106855693-baic-x55-plus-x55-ii-plus-_JM": {
-    "price": 46500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4043946808-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3577301872-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 37000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2803054804-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2073912841-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 28000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950321408-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4159084744-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 53500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4109005850-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 29990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4021906790-baic-x55e-hibrida-_JM": {
-    "price": 34500,
+  "https://auto.mercadolibre.com.ar/MLA-4068672958-baic-x35-15t-fashion-plus-cvt-150cv-_JM": {
+    "price": 23900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3315292970-baic-x35-luxury-_JM": {
@@ -2849,6 +2749,62 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-4094788812-baic-x55-plus-15t-executive-7dct-_JM": {
     "price": 36999,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1658514665-baic-x55-plus-15t-7dct-_JM": {
+    "price": 42500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230480387-baic-x55-plus-15t-7dct-_JM": {
+    "price": 42500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3376831512-baic-x55-ii-hibrida-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2080172705-baic-x55-ii-hibrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3950639582-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 41000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4132631386-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 33600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2097920699-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2143649175-baic-x55-15t-luxury-cvt-lcb-_JM": {
+    "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4139295090-baic-eu5-00-eu5-_JM": {
+    "price": 27000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2258886991-baic-x25-15-elite-_JM": {
+    "price": 11200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255988175-baic-x35-15-luxury-at-_JM": {
+    "price": 23800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2226961143-baic-x35-2018-15-luxury-at-_JM": {
+    "price": 11800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2100602013-baic-x55-15-t-plus-7dct-_JM": {
+    "price": 52395000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3967792354-baic-u5-plus-2026-_JM": {
+    "price": 23300,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3315329592-baic-eu5-00-eu5-_JM": {
@@ -2869,34 +2825,6 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-1800421767-baic-eu5-okm-sedan-electrico-al-mejor-precio-us-22900-fb1-_JM": {
     "price": 24900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4087257642-baic-x55-ii-15-reev-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2195626187-baic-x55-hybrid-reev-ep-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4128964732-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 30000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1658514665-baic-x55-plus-15t-7dct-_JM": {
-    "price": 42500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2054573807-baic-x55-plus-15t-7dct-_JM": {
-    "price": 39950,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1748494607-baic-x55-plus-15t-7dct-_JM": {
-    "price": 38800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2230480387-baic-x55-plus-15t-7dct-_JM": {
-    "price": 42500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1929689901-gac-gs8-20t-awd-2026-2025-0km-mg-chery-baic-tiggo-mg3-zs-_JM": {
@@ -2927,80 +2855,96 @@
     "price": 71500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2168552309-baic-bj60-20t-mhev-_JM": {
-    "price": 67000,
+  "https://auto.mercadolibre.com.ar/MLA-2232488217-baic-eu5-00-eu5-_JM": {
+    "price": 16800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2157549965-baic-beijing-eu5-_JM": {
-    "price": 26000,
+  "https://auto.mercadolibre.com.ar/MLA-3982574482-baic-bj60-20t-mhev-flagship-_JM": {
+    "price": 70000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4050938562-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 28000,
+  "https://auto.mercadolibre.com.ar/MLA-2258174071-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3568711078-baic-bj30-15t-bj30-4wd-hybrid-2026-0km-hev-_JM": {
+    "price": 36200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1602126389-baic-x55-plus-15t-_JM": {
+    "price": 40500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3928200190-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4039256974-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3531543980-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2104588537-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2268143439-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 29800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3992837042-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3907056556-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 34700,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1960849207-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 34900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2120401721-baic-x55-ii-hibrida-_JM": {
+    "price": 34900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4123204938-baic-d20-2020-_JM": {
     "price": 13500000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1960819737-baic-u5-0-km-15-plus-_JM": {
-    "price": 25900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3950320788-baic-x55-plus-15t-7dct-_JM": {
-    "price": 36900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2686748882-baic-bj40-pro-20-t-_JM": {
-    "price": 52000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2059969989-baic-bj40-2026-_JM": {
-    "price": 54900,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-2232475769-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 33800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2264744351-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 23500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2244249817-baic-x35-15-luxury-at-_JM": {
-    "price": 13200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2155145891-baic-u5-15-plus-2026-_JM": {
-    "price": 23296,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2216012015-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 27500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2255994437-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2229660049-baic-x35-15-luxury-at-_JM": {
-    "price": 14500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2245685489-baic-x55-ii-hybrid-_JM": {
     "price": 33700,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3959978878-baic-x55-2026-_JM": {
-    "price": 34500,
+  "https://auto.mercadolibre.com.ar/MLA-1960819737-baic-u5-0-km-15-plus-_JM": {
+    "price": 25900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4160362586-baic-x55-plus-_JM": {
+    "price": 43000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4123206798-baic-u5-15-plus-2025-_JM": {
     "price": 30900000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4103962612-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 51000,
+  "https://auto.mercadolibre.com.ar/MLA-2083313623-baic-bj60-20-turbo-mhev-4x4-suv-0km-_JM": {
+    "price": 78600,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4021906790-baic-x55e-hibrida-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2244249817-baic-x35-15-luxury-at-_JM": {
+    "price": 13200,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4140674010-baic-x55-15t-luxury-cvt-_JM": {
@@ -3015,64 +2959,56 @@
     "price": 32500,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-3959978878-baic-x55-2026-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-4092009090-baic-x55-15t-luxury-cvt-_JM": {
     "price": 34000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4087735266-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 28500,
+  "https://auto.mercadolibre.com.ar/MLA-4087257642-baic-x55-ii-15-reev-_JM": {
+    "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4133010632-baic-x55-15t-elite-cvt-_JM": {
-    "price": 24000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4048699106-baic-x55-plus-_JM": {
-    "price": 33500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2126230581-baic-x35-15-luxury-_JM": {
-    "price": 12000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4104383306-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 25900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2233137171-baic-bj40-pro-2026-20t-4wd-_JM": {
-    "price": 54000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3191140998-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 52400,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1835074149-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 53500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1816313713-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 53000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1856034577-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 51000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3752441032-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 49900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1806505773-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 49900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1788713233-baic-x55-il-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-2195626187-baic-x55-hybrid-reev-ep-_JM": {
     "price": 32900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4050866576-baic-bj40-20t-4wd-3p-_JM": {
-    "price": 54500,
+  "https://auto.mercadolibre.com.ar/MLA-2268627293-baic-x55-ii-15-reev-_JM": {
+    "price": 33499,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4170794846-baic-x55-ii-15-reev-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4128964732-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 30000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2686748882-baic-bj40-pro-20-t-_JM": {
+    "price": 52000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4050938562-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 28000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2229660049-baic-x35-15-luxury-at-_JM": {
+    "price": 14500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2237865333-baic-x35-15-luxury-_JM": {
+    "price": 21500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1689551259-baic-x35-15-t-luxury-cvt-_JM": {
+    "price": 28200,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2245691857-baic-x55-plus-15t-7dct-_JM": {
+    "price": 35000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3834658976-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -3083,16 +3019,20 @@
     "price": 33000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3982574482-baic-bj60-20t-mhev-flagship-_JM": {
-    "price": 70000,
+  "https://auto.mercadolibre.com.ar/MLA-2246499289-baic-x55-15t-elite-cvt-_JM": {
+    "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2262138613-baic-x35-15-luxury-at-_JM": {
-    "price": 13900,
+  "https://auto.mercadolibre.com.ar/MLA-4170442754-baic-x55-15t-elite-cvt-_JM": {
+    "price": 42500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4158941140-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 31500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2268318727-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2246118593-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
@@ -3107,36 +3047,24 @@
     "price": 34500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2237865333-baic-x35-15-luxury-_JM": {
-    "price": 21500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4075881910-baic-x55-15t-elite-cvt-_JM": {
-    "price": 26900,
+  "https://auto.mercadolibre.com.ar/MLA-2083290659-baic-x55-plus-15-turbo-suv-nuevo-0km-_JM": {
+    "price": 42500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2246499289-baic-x55-15t-elite-cvt-_JM": {
-    "price": 33500,
+  "https://auto.mercadolibre.com.ar/MLA-2155145891-baic-u5-15-plus-2026-_JM": {
+    "price": 23296,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2255760277-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4148729414-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2232488217-baic-eu5-00-eu5-_JM": {
-    "price": 18000,
+  "https://auto.mercadolibre.com.ar/MLA-1788713233-baic-x55-il-_JM": {
+    "price": 32900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1987840743-baic-bj30-2026-_JM": {
     "price": 38500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2236729989-baic-bj40-plus-entrega-usd-46000-12-cuotas-de-1000usd-_JM": {
-    "price": 56000,
+  "https://auto.mercadolibre.com.ar/MLA-2157549965-baic-beijing-eu5-_JM": {
+    "price": 26000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3978752984-baic-u5-plus-15-cvt-_JM": {
@@ -3171,60 +3099,92 @@
     "price": 59000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4091908496-baic-eu5-00-eu5-_JM": {
-    "price": 22000,
+  "https://auto.mercadolibre.com.ar/MLA-4173329120-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 33000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2143684185-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 46000,
+  "https://auto.mercadolibre.com.ar/MLA-4165375818-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 50990,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2233137171-baic-bj40-pro-2026-20t-4wd-_JM": {
+    "price": 54000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3191140998-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 52400,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1835074149-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 53500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1816313713-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 53000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1856034577-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 51000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3752441032-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 49900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1806505773-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 49900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3955005510-baic-bj30-4x4-hybrid-blindado-rb3-bullet-proof-_JM": {
     "price": 68500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4104747104-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 49999,
+  "https://auto.mercadolibre.com.ar/MLA-4109005850-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 29990,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4087255980-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 35000,
+  "https://auto.mercadolibre.com.ar/MLA-4104383306-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 25900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1689551259-baic-x35-15-t-luxury-cvt-_JM": {
-    "price": 28200,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2246496263-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 28000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4115882834-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 30490,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1943817587-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2253113877-baic-x55-15t-honor-cvt-_JM": {
-    "price": 20000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4144082384-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 26800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2041110575-baic-x35-15-luxury-at-_JM": {
-    "price": 14000,
+  "https://auto.mercadolibre.com.ar/MLA-2236729989-baic-bj40-plus-entrega-usd-46000-12-cuotas-de-1000usd-_JM": {
+    "price": 56000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2083314389-baic-bj60-20-turbo-mhev-4x4-suv-0km-_JM": {
     "price": 78600,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4014333088-baic-bj40-pro-2026-_JM": {
-    "price": 54499,
+  "https://auto.mercadolibre.com.ar/MLA-2059969989-baic-bj40-2026-_JM": {
+    "price": 54900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3206301722-baic-x35-15-luxury-at-_JM": {
+    "price": 26490,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4087255980-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 35000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4075881910-baic-x55-15t-elite-cvt-_JM": {
+    "price": 26900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4022426266-baic-x55-15t-elite-cvt-_JM": {
+    "price": 29500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2041110575-baic-x35-15-luxury-at-_JM": {
+    "price": 14000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4091908496-baic-eu5-00-eu5-_JM": {
+    "price": 22000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3833449448-baic-x35-15-luxury-at-_JM": {
+    "price": 22499,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2098037627-baic-bj30-15t-4x4-hybrid-2026-0km-_JM": {
@@ -3239,109 +3199,49 @@
     "price": 35800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2184816509-baic-bj30-2026-bj30e-automatica-_JM": {
-    "price": 32000,
+  "https://auto.mercadolibre.com.ar/MLA-4170541184-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 27990,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4127752002-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 25900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2239502441-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 18500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4058697894-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 29500,
+  "https://auto.mercadolibre.com.ar/MLA-4050866576-baic-bj40-20t-4wd-3p-_JM": {
+    "price": 54500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4091966258-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 34000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4022426266-baic-x55-15t-elite-cvt-_JM": {
-    "price": 29500000,
+  "https://auto.mercadolibre.com.ar/MLA-2246496263-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 28000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4115882834-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 30490,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2262222089-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 23500000,
     "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1943817587-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2205676587-baic-u5-_JM": {
     "price": 25000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3582015832-baic-x55-15-luxury-cvt-_JM": {
-    "price": 27950337,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3206301722-baic-x35-15-luxury-at-_JM": {
-    "price": 26490,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2243608489-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2039129377-baic-x55-plus-15t-7dct-_JM": {
-    "price": 46000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2104588269-baic-x55-15t-luxury-cvt-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-4058697894-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 29500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3936021130-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 34000,
+  "https://auto.mercadolibre.com.ar/MLA-2242981093-baic-bj40-20-t-4x4-plus-at8-_JM": {
+    "price": 59500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2240783285-suv-baic-x55-ii-2026-hibrida-permuto-0km-entrega-2027-rs-_JM": {
-    "price": 35920,
+  "https://auto.mercadolibre.com.ar/MLA-4087735266-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 28500,
     "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4035297952-baic-bj30-15t-2wd-hybrid-_JM": {
-    "price": 30900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1937442349-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2262514557-baic-x55-ii-15t-luxury-7dct-_JM": {
-    "price": 33900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4068263514-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 48000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4139765340-baic-eu5-00-eu5-_JM": {
-    "price": 28300,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4137051430-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 33000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2051660579-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 36000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3846169160-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 48500000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3507278270-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 32900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4151251744-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 39000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2254880719-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 46000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4019579632-baic-x25-15-elite-_JM": {
-    "price": 13400000,
-    "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4009070412-baic-x55-plus-15t-executive-7dct-_JM": {
     "price": 42500,
@@ -3355,72 +3255,92 @@
     "price": 39900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2154096351-baic-x55-plus-15t-7dct-_JM": {
-    "price": 34500,
+  "https://auto.mercadolibre.com.ar/MLA-2243608489-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 33900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2181671637-baic-eu5-00-eu5-_JM": {
-    "price": 24900,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-2236363967-baic-x25-15-elite-l18-_JM": {
+    "price": 17000000,
+    "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4160362586-baic-x55-plus-_JM": {
-    "price": 43000,
+  "https://auto.mercadolibre.com.ar/MLA-2230486829-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 29200,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2169442283-baic-x55-plus-15t-7dct-_JM": {
     "price": 42500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4091906336-baic-bj60-20t-mhev-_JM": {
-    "price": 73000,
+  "https://auto.mercadolibre.com.ar/MLA-2271275377-baic-x55-plus-15t-7dct-_JM": {
+    "price": 41500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3992045096-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+  "https://auto.mercadolibre.com.ar/MLA-3582015832-baic-x55-15-luxury-cvt-_JM": {
+    "price": 27812432,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2229374643-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 20500000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3936021130-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4035297952-baic-bj30-15t-2wd-hybrid-_JM": {
+    "price": 30900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4139765340-baic-eu5-00-eu5-_JM": {
+    "price": 28300,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2057552353-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255611761-baic-x55-plus-15t-executive-7dct-_JM": {
     "price": 34500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4146243612-baic-u5-plus-15-cvt-_JM": {
-    "price": 23000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2261776195-baic-x55-ii-15-reev-_JM": {
-    "price": 31900,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1981358019-baic-bj60-20t-mhev-_JM": {
-    "price": 64500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3860100402-baic-bj60-20t-mhev-_JM": {
-    "price": 59900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3955578242-baic-x35-15t-fashion-cvt-150cv-_JM": {
     "price": 25000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2262222089-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 23500000,
+  "https://auto.mercadolibre.com.ar/MLA-3950320788-baic-x55-plus-15t-7dct-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4048699106-baic-x55-plus-_JM": {
+    "price": 33500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2253113877-baic-x55-15t-honor-cvt-_JM": {
+    "price": 20000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2051660579-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 36000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3507278270-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 32900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3846169160-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 48500000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2230486829-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 29800,
+  "https://auto.mercadolibre.com.ar/MLA-2181671637-baic-eu5-00-eu5-_JM": {
+    "price": 24900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2181297371-baic-x35-15t-fashion-plus-cvt-150cv-_JM": {
-    "price": 18000,
+  "https://auto.mercadolibre.com.ar/MLA-3860100402-baic-bj60-20t-mhev-_JM": {
+    "price": 59900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1788713341-baic-x55-plus-15t-7dct-_JM": {
-    "price": 37500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4092008186-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 54500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2143372467-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 38500,
+  "https://auto.mercadolibre.com.ar/MLA-4091906336-baic-bj60-20t-mhev-_JM": {
+    "price": 73000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2205677529-baic-x35-15-luxury-at-114cv-l21-_JM": {
@@ -3431,16 +3351,68 @@
     "price": 27000,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-4014333088-baic-bj40-pro-2026-_JM": {
+    "price": 54499,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3992045096-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2262514557-baic-x55-ii-15t-luxury-7dct-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4135153850-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 41000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1902526269-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 29900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1788713341-baic-x55-plus-15t-7dct-_JM": {
+    "price": 37500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2262138613-baic-x35-15-luxury-at-_JM": {
+    "price": 13900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2255994437-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4004996312-baic-x35-15-luxury-at-114cv-l21-_JM": {
+    "price": 25900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2143372467-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 38500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2246264791-baic-bj60-20t-mhev-_JM": {
+    "price": 59900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4144082384-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 26800,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2264787371-excelente-estado-unico-dueno-_JM": {
+    "price": 48000,
+    "currency": "US$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2226966565-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 35200,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2229374643-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 20500000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-2126230581-baic-x35-15-luxury-_JM": {
+    "price": 12000,
+    "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2222428375-baic-u5-plus-15-cvt-_JM": {
-    "price": 21500,
+  "https://auto.mercadolibre.com.ar/MLA-2104588269-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 29500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2100459791-baic-x55-plus-blindado-rb3-bullet-proof-_JM": {
@@ -3451,48 +3423,92 @@
     "price": 34000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2246116883-baic-x25-15-elite-_JM": {
-    "price": 13000,
+  "https://auto.mercadolibre.com.ar/MLA-4092008186-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 54500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4140733566-baic-bj30-15t-4wd-hybrid-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-3597138372-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 59500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4004996312-baic-x35-15-luxury-at-114cv-l21-_JM": {
-    "price": 25900,
+  "https://auto.mercadolibre.com.ar/MLA-2222428375-baic-u5-plus-15-cvt-_JM": {
+    "price": 21500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3922598478-baic-bj30-15t-2wd-hybrid-2026-_JM": {
-    "price": 33614,
+  "https://auto.mercadolibre.com.ar/MLA-4131934730-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 27500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4150588006-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 32500,
+  "https://auto.mercadolibre.com.ar/MLA-2181297371-baic-x35-15t-fashion-plus-cvt-150cv-_JM": {
+    "price": 18000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4114519344-baic-x55-beijing-luxury-_JM": {
-    "price": 41000000,
-    "currency": "$"
+  "https://auto.mercadolibre.com.ar/MLA-1987180559-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 26800,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3771256218-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
     "price": 30000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4165375818-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 50990,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4098665182-baic-u5-plus-15-cvt-_JM": {
-    "price": 21800,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3911462202-baic-u5-plus-15-cvt-_JM": {
     "price": 21800,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4123292598-baic-x55-ii-15t-luxuty-igual-a-0km-_JM": {
-    "price": 27000,
+  "https://auto.mercadolibre.com.ar/MLA-4150588006-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2265632145-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 33900,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3917342404-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 29500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4140733566-baic-bj30-15t-4wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1981358019-baic-bj60-20t-mhev-_JM": {
+    "price": 64500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4146243612-baic-u5-plus-15-cvt-_JM": {
+    "price": 23000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2184816509-baic-bj30-2026-bj30e-automatica-_JM": {
+    "price": 32000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3936018624-baic-bj30-15-2wd-hybrid-patentado-sin-rodar-cgarantia-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2268139137-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 34000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4133010632-baic-x55-15t-elite-cvt-_JM": {
+    "price": 24000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2216012015-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 27500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3922598478-baic-bj30-15t-2wd-hybrid-2026-_JM": {
+    "price": 33614,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2123987025-baic-bj30-2026-15t-hybrid-4x2-_JM": {
+    "price": 49000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4174108892-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 32000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-1786889973-baic-bj40-plus-20t-4wd-_JM": {
@@ -3507,177 +3523,169 @@
     "price": 59000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2234424893-baic-x35-15t-luxury-cvt-_JM": {
-    "price": 32000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-3917342404-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 29500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4110643552-baic-x35-aut-15-turbo-24000-kms-_JM": {
-    "price": 19500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2128205247-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 52500,
+  "https://auto.mercadolibre.com.ar/MLA-2121170589-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 38000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2237300589-baic-x25-15-elite-_JM": {
     "price": 14500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-1986532113-baic-x55-2024-_JM": {
-    "price": 28900,
+  "https://auto.mercadolibre.com.ar/MLA-4132999050-baic-bj60-20t-mhev-_JM": {
+    "price": 55000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4127745038-baic-x55-plus-15t-7dct-_JM": {
-    "price": 33320,
+  "https://auto.mercadolibre.com.ar/MLA-4110643552-baic-x35-aut-15-turbo-24000-kms-_JM": {
+    "price": 19500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3978271200-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 39000000,
+  "https://auto.mercadolibre.com.ar/MLA-2039129377-baic-x55-plus-15t-7dct-_JM": {
+    "price": 46000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3936018624-baic-bj30-15-2wd-hybrid-patentado-sin-rodar-cgarantia-_JM": {
-    "price": 34000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2034968085-baic-x35-15-luxury-at-_JM": {
-    "price": 18000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4075336724-baic-eu5-00-eu5-_JM": {
-    "price": 18900,
+  "https://auto.mercadolibre.com.ar/MLA-4098665182-baic-u5-plus-15-cvt-_JM": {
+    "price": 20900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3915370676-baic-u5-plus-15-cvt-_JM": {
     "price": 19000,
     "currency": "US$"
   },
+  "https://auto.mercadolibre.com.ar/MLA-2034968085-baic-x35-15-luxury-at-_JM": {
+    "price": 18000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2234424893-baic-x35-15t-luxury-cvt-_JM": {
+    "price": 32000000,
+    "currency": "$"
+  },
   "https://auto.mercadolibre.com.ar/MLA-2054663323-baic-bj40-plus-20t-4wd-_JM": {
     "price": 56000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2121170589-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 38000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2217617271-baic-bj40-plus-20t-4wd-_JM": {
     "price": 53000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2123987025-baic-bj30-2026-15t-hybrid-4x2-_JM": {
-    "price": 49000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4089337682-baic-x35-15-luxury-_JM": {
-    "price": 32000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1987180559-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 26800,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4043021824-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 32000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-1873482719-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 32500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2208764127-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
-    "price": 28999,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2211845539-baic-x25-15-elite-_JM": {
-    "price": 11500,
+  "https://auto.mercadolibre.com.ar/MLA-4075336724-baic-eu5-00-eu5-_JM": {
+    "price": 18900,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-3733022146-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 33500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3597138372-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 59500,
+  "https://auto.mercadolibre.com.ar/MLA-1873482719-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 32500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2211845539-baic-x25-15-elite-_JM": {
+    "price": 11500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2154096351-baic-x55-plus-15t-7dct-_JM": {
+    "price": 34500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2208764127-baic-bj30-15t-bj30-2wd-hybrid-_JM": {
+    "price": 28999,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2212776329-baic-u5-plus-15-cvt-automatico-2025-con-23000-km-_JM": {
     "price": 21000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2230487027-baic-x35-15-luxury-_JM": {
-    "price": 16400000,
+  "https://auto.mercadolibre.com.ar/MLA-4114519344-baic-x55-beijing-luxury-_JM": {
+    "price": 41000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2264790947-baic-x55-plus-15t-executive-7dct-_JM": {
-    "price": 32000,
+  "https://auto.mercadolibre.com.ar/MLA-4123292598-baic-x55-ii-15t-luxuty-igual-a-0km-_JM": {
+    "price": 27000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3622925706-baic-bj40-pro-20t-4wd-_JM": {
-    "price": 75000000,
+  "https://auto.mercadolibre.com.ar/MLA-4151251744-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 39000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4057760390-baic-x35-15-luxury-at-_JM": {
-    "price": 31200000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2221094245-baic-bj40-plus-20t-4wd-_JM": {
-    "price": 54500,
+  "https://auto.mercadolibre.com.ar/MLA-2217259541-baic-x35-15-luxury-at-_JM": {
+    "price": 12500,
     "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4089337682-baic-x35-15-luxury-_JM": {
+    "price": 32000000,
+    "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2180669373-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 36500,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2217259541-baic-x35-15-luxury-at-_JM": {
-    "price": 12500,
+  "https://auto.mercadolibre.com.ar/MLA-3738114514-baic-x35-15-luxury-at-_JM": {
+    "price": 22500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2221094245-baic-bj40-plus-20t-4wd-_JM": {
+    "price": 54500,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2195629465-baic-bj-40-plus-2024-_JM": {
     "price": 45000,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4049328384-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 38000,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-2258458731-baic-x55-15t-luxury-cvt-_JM": {
     "price": 45000000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-3738114514-baic-x35-15-luxury-at-_JM": {
-    "price": 22500,
-    "currency": "US$"
+  "https://auto.mercadolibre.com.ar/MLA-4057760390-baic-x35-15-luxury-at-_JM": {
+    "price": 31200000,
+    "currency": "$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2186265253-baic-x35-15-luxury-at-_JM": {
     "price": 20500000,
     "currency": "$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-2165522671-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 34000,
+  "https://auto.mercadolibre.com.ar/MLA-2246116883-baic-x25-15-elite-_JM": {
+    "price": 13000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-3622925706-baic-bj40-pro-20t-4wd-_JM": {
+    "price": 75000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4089556346-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 41000000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4137051430-baic-x55-15t-luxury-cvt-_JM": {
+    "price": 33000,
     "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-4064307206-baic-x35-15-luxury-at-_JM": {
     "price": 17900,
     "currency": "US$"
   },
-  "https://auto.mercadolibre.com.ar/MLA-4089556346-baic-x55-15t-luxury-cvt-_JM": {
-    "price": 41000000,
-    "currency": "$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2264787371-excelente-estado-unico-dueno-_JM": {
-    "price": 48000,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-2164398097-baic-bj60-20t-mhev-_JM": {
-    "price": 68000,
-    "currency": "US$"
-  },
   "https://auto.mercadolibre.com.ar/MLA-2212348913-baic-x55-15t-luxury-cvt-_JM": {
     "price": 27500000,
     "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2230487027-baic-x35-15-luxury-_JM": {
+    "price": 16400000,
+    "currency": "$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2273230057-baic-x35-15-luxury-at-_JM": {
+    "price": 12500,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-2271377339-baic-x55-plus-15t-executive-7dct-_JM": {
+    "price": 31000,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-4127745038-baic-x55-plus-15t-7dct-_JM": {
+    "price": 33320,
+    "currency": "US$"
+  },
+  "https://auto.mercadolibre.com.ar/MLA-1986532113-baic-x55-2024-_JM": {
+    "price": 28900,
+    "currency": "US$"
   },
   "https://auto.mercadolibre.com.ar/MLA-2158207131-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 28900,
@@ -3685,10 +3693,6 @@
   },
   "https://auto.mercadolibre.com.ar/MLA-1788737135-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
     "price": 36500,
-    "currency": "US$"
-  },
-  "https://auto.mercadolibre.com.ar/MLA-4165810076-baic-bj30-15t-bj30-4wd-hybrid-_JM": {
-    "price": 34500,
     "currency": "US$"
   }
 }
